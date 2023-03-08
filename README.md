@@ -131,3 +131,5 @@ Explore the top 2,500 locations where the percentage of households with a second
 Heat map for correlation matrix.
 
 Pie chart to show the population distribution across different types of places (village, urban, town etc.).
+
+Tableau Project Link : https://public.tableau.com/app/profile/srinivaasan.g/viz/RealEstateCapstoneProject/Dashboard1
